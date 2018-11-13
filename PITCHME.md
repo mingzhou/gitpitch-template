@@ -2,9 +2,8 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-Hello GitPitch<br>
+Hello GitPitch 模板示例<br>
 GitPitch<br>*The Template*<br>
-模板示例
 @snapend
 
 @snap[south-west byline  text-white]

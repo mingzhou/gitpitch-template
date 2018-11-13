@@ -13,13 +13,12 @@
 +++?code=template/src/go/server.go&lang=golang
 @title[Repo Source File]
 
-@[1,3-6](Present code found within any repository source file. 给代码添加解说)
+@[1,3-6](给代码添加解说词)
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 @snap[north-east template-note text-gray]
-Code presenting repository source file template.
-使用 /src/go/server.go 文件
+使用当前repository里`/src/go/server.go`文件的代码
 @snapend
 
 
@@ -54,7 +53,7 @@ http.createServer(function (request, response) {
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
 @snap[north-east template-note text-gray]
-Code presenting fenced code block template.
+使用`Markdown`里直接输入的代码。
 @snapend
 
 
@@ -66,7 +65,7 @@ Code presenting fenced code block template.
 @[57-62](Code-presenting works seamlessly both online and offline.)
 
 @snap[north-east template-note text-white]
-Code presenting GitHub GIST template.
+使用`GitHub GIST`里的代码。
 @snapend
 
 
