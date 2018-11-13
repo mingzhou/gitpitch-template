@@ -98,10 +98,10 @@ http.createServer(function (request, response) {
         └── wrap-up/PITCHME.md
 ```
 
-@[1-3, 6](Code presenting can also be used to step through any text-based content.)
-@[4,5,7,12](Here for example we can navigate through the directory structure for this template.)
-@[12-23](We can see that this template uses GitPitch's cool modular markdown support @fa[smile-o fa-spin])
+@[1-3, 6](可以跳过4,5两行，展示1-3和6这四行)
+@[4,5,7,12](展示4,5,7,12这四行)
+@[12-23](展示[12-23])
 
 @snap[north-east template-note text-white]
-Code presenting fenced text block template.
+除了代码，也可以展示普通的text文字。
 @snapend
