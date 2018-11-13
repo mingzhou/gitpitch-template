@@ -2,7 +2,9 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+Hello GitPitch<br>
+GitPitch<br>*The Template*<br>
+模板示例
 @snapend
 
 @snap[south-west byline  text-white]
@@ -15,7 +17,7 @@ The Fastest Way From Idea To Presentation.
 ### Each slide in this presentation is provided as a *template*.
 
 <br><br>
-
+1. 中文
 1. Select only the slide templates that you need.
 1. Customize the template _markdown content_.
 1. Optionally, override template _styles_ and _settings_.

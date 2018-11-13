@@ -13,12 +13,13 @@
 +++?code=template/src/go/server.go&lang=golang
 @title[Repo Source File]
 
-@[1,3-6](Present code found within any repository source file.)
+@[1,3-6](Present code found within any repository source file. 给代码添加解说)
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 @snap[north-east template-note text-gray]
 Code presenting repository source file template.
+使用 /src/go/server.go 文件
 @snapend
 
 
